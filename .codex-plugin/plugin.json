@@ -14,5 +14,16 @@
     "blue-team",
     "pentest",
     "soc"
-  ]
+  ],
+  "interface": {
+    "displayName": "Cybersec Mentor Skills",
+    "shortDescription": "Adaptive Red Team & Blue Team cybersecurity lab mentor",
+    "longDescription": "Modular AI mentor skills (readteamskill and blueteamskill) for hands-on cybersecurity practice in local VM labs and legal training platforms, featuring progressive anti-spoiler hints, non-judgmental mistake guidance, and four adaptive mentor personas.",
+    "developerName": "Kobokk",
+    "category": "Security",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ]
+  }
 }
